@@ -17,7 +17,7 @@ const steps = [
     altText: 'Write Cold Emails task detail modal showing description and Run agent button',
     title: 'Step 1',
     description: 'Generate a series of four emails to create LinkedIn connections, schedule demos, and show how you can help the recipient.',
-    hotspot: { top: '50%', left: '50%', align: 'center' },
+    hotspot: { top: '30%', left: '50%', align: 'center', cardWidth: '300px' },
   },
   {
     slug: 'agents/cold-email/running',
