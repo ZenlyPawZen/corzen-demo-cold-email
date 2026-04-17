@@ -33,7 +33,7 @@ const steps = [
     altText: 'Completed cold email output with subject lines, body text, CTAs and hooks',
     title: 'Step 3',
     description: "Receive subject lines, body text, CTA's and hooks to show the value of your offer.",
-    hotspot: { top: '50%', left: '50%', align: 'center' },
+    hotspot: { top: '40%', left: '50%', align: 'center' },
   },
 ];
 
